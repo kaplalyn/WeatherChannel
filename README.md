@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 5, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Lyndsey Kaplan)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Use Apixu to create a program that generates weather data (temp., 10 day forecast, high and low, feels like, location, region) for whatever area specified.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://kaplalyn.github.io/WeatherChannel/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. This assignment was interesting because it was a lot like the last assignment where we used JSON to retrieve data to our browser without going to another webpage. This taught me all of the different API methods. 
+2. I learned how to get my API key. 
+3. I learned how to add as many days as I want to the weather channel. 
